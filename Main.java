@@ -14,11 +14,11 @@ TODO: Modify this software so that your team will be added to the course with ea
 Note: Try 2.   
  */
 
-package Project00;
+package Project00a;
 
 import java.util.*;
 import Project00.TeamCool;
-import Project00.Member;
+import Project00a.Member;
 
 public class Main {
 
