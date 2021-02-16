@@ -1,9 +1,9 @@
-package Project00;
+package Project00a;
 
 import java.util.*;
-import Project00.Team;
-import Project00.Member;
-import Project00.TeamMember;
+import Project00a.Team;
+import Project00a.Member;
+import Project00a.TeamMember;
 
 
 public class TeamNice extends Team
