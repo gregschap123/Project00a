@@ -1,7 +1,7 @@
-package Project00;
+package Project00a;
 
 import java.util.*;
-import Project00.Member;
+import Project00a.Member;
 
 public abstract class Team
 {

@@ -17,7 +17,7 @@ Note: Try 2.
 package Project00a;
 
 import java.util.*;
-import Project00.TeamCool;
+import Project00a.TeamCool;
 import Project00a.Member;
 
 public class Main {
