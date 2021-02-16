@@ -16,6 +16,7 @@ import Project00a.TeamMember;
         public void createTeamMembers()
         {
             members.add(new Project00a.TeamMember("Evan Toyberg"));
+            members.add(new Project00a.TeamMember("Haris Naveed"));
 
 
             // create a new member class for each team member
