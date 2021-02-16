@@ -29,6 +29,7 @@ public class Course
     {
         teams.add(new TeamCool("TeamCool"));
         teams.add(new TeamNice("TeamNice"));
+        teams.add(new Team03("Team03"));
         teams.add(new Team02("Team02"));
         teams.add(new Team1("Team1"));
 
