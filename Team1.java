@@ -12,7 +12,7 @@ public class Team1 extends Team {
     public void createTeamMembers()
     {
         members.add(new Project00.TeamMember("Mark Morykan"));
-        members.add(new Project00.TeamMember("Janice Jones"));
+        members.add(new Project00.TeamMember("Richie Glennon"));
         members.add(new Project00.TeamMember("Harold Hero"));
         // create a new member class for each team member
         // and add it to the team members list
